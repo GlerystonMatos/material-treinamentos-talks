@@ -1,2 +1,2 @@
-# slides
-Repositório destinado a slides de talks
+# material-treinamentos-talks
+Repositório destinado ao material de treinamentos e de talks

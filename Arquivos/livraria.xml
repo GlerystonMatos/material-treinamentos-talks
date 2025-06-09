@@ -1,0 +1,16 @@
+<livraria>
+	<livro isbn="123">
+		<titulo>Dom Casmurro</titulo>
+		<autor>Machado de Assis</autor>
+		<ano_publicacao>1899</ano_publicacao>
+	</livro>
+	<livro isbn="456">
+		<titulo>O Cortiço</titulo>
+		<autor>Aluísio Azevedo</autor>
+		<ano_publicacao>1890</ano_publicacao>
+	</livro>
+	<livro isbn="789">
+		<titulo>Memórias Póstumas de Brás Cubas</titulo>
+		<autor>Machado de Assis</autor>
+	</livro>
+</livraria>
